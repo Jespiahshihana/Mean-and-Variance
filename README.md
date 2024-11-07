@@ -50,8 +50,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-#Name: RIYA P L
-#Register number: 212223240141
 
 import numpy as np
 L=[int(i) for i in input().split()]
